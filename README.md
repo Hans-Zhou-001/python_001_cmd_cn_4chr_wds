@@ -1,0 +1,2 @@
+# python_001_cmd_cn_4chr_wds
+使用Python制作一个命令行成语接龙
